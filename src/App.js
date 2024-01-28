@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className='contenedor-principal'>
-      <h1>Esto es lo que dicen algunos fans de harry potter:</h1>
+      <h1>Esto es lo que dicen algunos fans de Harry Potter:</h1>
       <Testimonio
       nombre="Anónimo"
       pais="España"
