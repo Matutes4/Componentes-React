@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.52346092.css",
-    "main.js": "/static/js/main.0cac6e23.js",
-    "static/media/testimonio-fans3.png": "/static/media/testimonio-fans3.142317ccd06dfefdbc18.png",
-    "static/media/testimonio-fans1.png": "/static/media/testimonio-fans1.5e967d5062885da8d3cb.png",
-    "static/media/testimonio-fans2.png": "/static/media/testimonio-fans2.bdc3669242fea9388e1a.png",
-    "index.html": "/index.html",
-    "main.52346092.css.map": "/static/css/main.52346092.css.map",
-    "main.0cac6e23.js.map": "/static/js/main.0cac6e23.js.map"
+    "main.css": "/Componentes-React/static/css/main.52346092.css",
+    "main.js": "/Componentes-React/static/js/main.594e92f2.js",
+    "static/media/testimonio-fans3.png": "/Componentes-React/static/media/testimonio-fans3.142317ccd06dfefdbc18.png",
+    "static/media/testimonio-fans1.png": "/Componentes-React/static/media/testimonio-fans1.5e967d5062885da8d3cb.png",
+    "static/media/testimonio-fans2.png": "/Componentes-React/static/media/testimonio-fans2.bdc3669242fea9388e1a.png",
+    "index.html": "/Componentes-React/index.html",
+    "main.52346092.css.map": "/Componentes-React/static/css/main.52346092.css.map",
+    "main.594e92f2.js.map": "/Componentes-React/static/js/main.594e92f2.js.map"
   },
   "entrypoints": [
     "static/css/main.52346092.css",
-    "static/js/main.0cac6e23.js"
+    "static/js/main.594e92f2.js"
   ]
 }
